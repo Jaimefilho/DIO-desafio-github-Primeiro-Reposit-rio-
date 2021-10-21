@@ -1,0 +1,6 @@
+Ainda não sei o que é . Net 
+A maioria das coisas até agora eu já sabia 
+
+https://git-scm.com/downloads
+Link para dowload do Git: https://git-scm.com/downloads
+O Git BAsh é o terminal extendido para otimizar o Uso do Git 
