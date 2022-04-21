@@ -1,5 +1,6 @@
-Ainda não sei o que é . Net 
-A maioria das coisas até agora eu já sabia 
+Agora estou fazendo novos bootcamp 
+vamos ve como me saio, me dem boa sorte
+
 
 https://git-scm.com/downloads
 Link para dowload do Git: https://git-scm.com/downloads
